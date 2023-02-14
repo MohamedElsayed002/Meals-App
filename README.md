@@ -1,8 +1,7 @@
 # Meals-App
 ## Meals App using React JS & API  <br/>
 ---
-Project Link <a href="https://zippy-hamster-864264.netlify.app/">CLICK ME </a> <br/>
-[Project](https://zippy-hamster-864264.netlify.app/ "Mohamed Elsayed")
+Project Link [Project](https://zippy-hamster-864264.netlify.app/ "Meals App") <br/>
 features that I used 
 ---
 1. React Hooks (useState , useEffect , useContext) <br/>
